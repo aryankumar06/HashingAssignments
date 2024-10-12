@@ -1,0 +1,15 @@
+Question 1:
+Problem: Find the First Missing Positive Integer
+Given an unsorted integer array nums, return the smallest missing positive integer.
+Your algorithm should run in O(n) time and use constant extra space.
+
+Constraints:
+
+1) 1 <= nums.length <= 105
+2) -231 <= nums[i] <= 231 - 1
+
+Input: nums = [3, 4, -1, 1]
+Output: 2
+
+Input: nums = [1, 2, 0]
+Output: 3
